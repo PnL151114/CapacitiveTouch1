@@ -1,0 +1,1 @@
+"./main.obj" "./src/msp430_uart.obj" "../lnk_msp430g2533.cmd" -l"libc.a" 
