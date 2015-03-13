@@ -77,7 +77,7 @@ unsigned int base_cnt[NUM_SEN] = { 0 };
 unsigned int meas_cnt[NUM_SEN] = { 0 };
 int delta_cnt[NUM_SEN] = { 0 };
 unsigned char key_press[NUM_SEN] = { 0 };
-unsigned int touch_cnt[NUM_SEN] = { 0 };
+unsigned int touch_cnt[NUM_SEN] = { 0  };
 
 int px_base_cnt, px_meas_cnt;
 int px_delta_cnt;
